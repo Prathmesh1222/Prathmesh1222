@@ -41,3 +41,15 @@ Another interesting project demonstrating my development capabilities.
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=tokyonight&hide_border=true" alt="Prathmesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh1222&theme=tokyonight&hide_border=true" alt="Prathmesh's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
