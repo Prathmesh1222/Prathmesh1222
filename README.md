@@ -1,8 +1,12 @@
-# <div align="center">PRATHMESH JADHAV</div>
+# <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=260&section=header&text=PRATHMESH%20JADHAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Agentic+AI+Developer;RAG+Systems+Architect;Enterprise+AI+Builder;Workflow+Automation+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Agentic+AI+Developer;RAG+Systems+Architect;Enterprise+AI+Builder;Workflow+Automation+Engineer"/>
 
 </div>
 
@@ -34,7 +38,11 @@
 
 ```yaml
 name: Prathmesh Jadhav
-role: AI Engineer
+
+role:
+  - AI Engineer
+  - Generative AI Developer
+  - Agentic AI Builder
 
 education:
   degree: B.Tech Computer Science Engineering
@@ -44,18 +52,20 @@ specialization:
   - Generative AI
   - Agentic AI
   - RAG Architectures
-  - Workflow Automation
+  - AI Automation
   - Enterprise AI Systems
 
 focus:
   - Multi-Agent Systems
-  - AI Orchestration
+  - Workflow Automation
   - Retrieval-Augmented Generation
-  - Enterprise AI Applications
-  - Full-Stack AI Systems
+  - AI Orchestration
+  - Full-Stack AI Applications
 ```
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750119-84b68444-0d81-46db-a338-7ec50ba1b1ec.gif"/>
 
 # Tech Stack
 
@@ -63,7 +73,7 @@ focus:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,typescript,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,typescript,sql&perline=6"/>
 
 <br/><br/>
 
@@ -80,19 +90,21 @@ focus:
 
 ### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,docker,git,linux"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,docker,git,linux&perline=6"/>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750119-84b68444-0d81-46db-a338-7ec50ba1b1ec.gif"/>
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -102,7 +114,7 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh1222&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh1222&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -112,7 +124,7 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh1222&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh1222&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -123,6 +135,16 @@ focus:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -154,6 +176,6 @@ focus:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Prathmesh1222&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Prathmesh1222&style=for-the-badge&color=1F6FEB"/>
 
 </div>
