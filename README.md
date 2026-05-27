@@ -102,9 +102,9 @@ focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
