@@ -1,13 +1,12 @@
-````md
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=280&section=header&text=PRATHMESH%20JADHAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=260&section=header&text=PRATHMESH%20JADHAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Agentic+AI+Developer;RAG+Systems+Architect;Enterprise+AI+Builder;Workflow+Automation+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Agentic+AI+Developer;RAG+Systems+Architect;Enterprise+AI+Builder;Workflow+Automation+Engineer"/>
 
 </div>
 
@@ -37,8 +36,6 @@
 
 # About Me
 
-<div align="center">
-
 ```yaml
 name: Prathmesh Jadhav
 
@@ -55,18 +52,16 @@ specialization:
   - Generative AI
   - Agentic AI
   - RAG Architectures
-  - Workflow Automation
+  - AI Automation
   - Enterprise AI Systems
 
 focus:
   - Multi-Agent Systems
-  - AI Orchestration
+  - Workflow Automation
   - Retrieval-Augmented Generation
-  - AI Automation Pipelines
+  - AI Orchestration
   - Full-Stack AI Applications
-````
-
-</div>
+```
 
 ---
 
@@ -107,9 +102,9 @@ focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh1222&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh1222&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -119,7 +114,7 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh1222&custom_title=Prathmesh%20Jadhav%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh1222&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -129,27 +124,17 @@ focus:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Prathmesh1222&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh1222&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 3D Contribution Snake
+# 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prathmesh1222/Prathmesh1222/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 3D Tech Sphere
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh1222&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -194,4 +179,3 @@ focus:
 <img src="https://komarev.com/ghpvc/?username=Prathmesh1222&style=for-the-badge&color=1F6FEB"/>
 
 </div>
-```
